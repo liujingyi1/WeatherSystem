@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Meteo</string>
+<string name="delete">Elimina</string>
+<string name="weather_data_default">Sconosciuto</string>
+<string name="menu_auto_refresh_24h">Ogni giorno</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Nuvoloso</string>
+<string name="weather_windy">Ventoso</string>
+<string name="weather_sunny">Soleggiato</string>
+<string name="weather_clear">Cancella</string>
+<string name="weather_thunderstorms">Temporali</string>
+<string name="weather_rain">Pioggia</string>
+</resources>

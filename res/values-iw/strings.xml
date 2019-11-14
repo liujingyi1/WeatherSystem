@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">מזג אוויר</string>
+<string name="delete">מחק</string>
+<string name="weather_data_default">לא ידוע</string>
+<string name="menu_auto_refresh_24h">כל יום</string>
+<string name="menu_temperature_c">צלזיוס</string>
+<string name="menu_temperature_f">פרנהייט</string>
+<string name="weather_cloudy">מעונן</string>
+<string name="weather_windy">רוחות ערות</string>
+<string name="weather_sunny">בהיר</string>
+<string name="weather_clear">נקה</string>
+<string name="weather_thunderstorms">סופות רעמים</string>
+<string name="weather_rain">גשם</string>
+</resources>

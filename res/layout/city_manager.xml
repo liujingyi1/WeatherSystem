@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp" >
+
+        <ListView
+            android:id="@+id/city_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:listSelector="@android:color/transparent" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/latest_all_refresh_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/weather_data_default"
+        android:textColor="@color/text_color_dark" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/citymanager_bottom_height"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+         <ImageView
+            android:id="@+id/location"
+            android:layout_width="@dimen/citymanager_bottom_height"
+            android:layout_height="@dimen/citymanager_bottom_height"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/img_bg_dark"
+            android:scaleType="center"
+            android:src="@drawable/location_btn" 
+            android:visibility="gone"/> 
+<!-- 
+        <ImageView
+            android:id="@+id/add_city"
+            android:layout_width="@dimen/citymanager_bottom_height"
+            android:layout_height="@dimen/citymanager_bottom_height"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/img_bg_dark"
+            android:scaleType="center"
+            android:src="@drawable/add_city" /> -->
+            
+		<ImageView
+            android:id="@+id/add_city"
+            android:layout_width="@dimen/citymanager_bottom_height"
+            android:layout_height="@dimen/citymanager_bottom_height"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/img_bg_dark"
+            android:scaleType="center"
+            android:src="@drawable/add_city" />
+
+        <ImageView
+            android:id="@+id/all_refresh"
+            android:layout_width="@dimen/citymanager_bottom_height"
+            android:layout_height="@dimen/citymanager_bottom_height"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/img_bg_dark"
+            android:scaleType="center"
+            android:src="@drawable/all_refresh" />
+    </RelativeLayout>
+
+</LinearLayout>

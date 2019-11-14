@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">الطقس</string>
+<string name="delete">حذف</string>
+<string name="add_city_title">إضافة مدينة</string>
+<string name="city_name_hint">اسم المدينة</string>
+<string name="weather_data_default">غير معروف</string>
+<string name="menu_auto_refresh">التحديثات التلقائية</string>
+<string name="menu_auto_refresh_6h">كل ٦ ساعات</string>
+<string name="menu_auto_refresh_12h">كل ١٢ ساعة</string>
+<string name="menu_auto_refresh_24h">كل يوم</string>
+<string name="menu_temperature_c">مئوية</string>
+<string name="menu_temperature_f">فهرنهايت</string>
+<string name="weather_cloudy">غائم</string>
+<string name="weather_windy">عاصف</string>
+<string name="weather_sunny">مشمس</string>
+<string name="weather_clear">مسح</string>
+<string name="weather_showers">أمطار غزيرة</string>
+<string name="weather_thunderstorms">عواصف رعدية</string>
+<string name="weather_rain">مطر</string>
+<string name="header_refreshing">جاري التحديث…</string>
+<string name="city_manager">مدير المدن</string>
+<string name="delete_city">حذف %1s?</string>
+<string name="add_city">إضافة %1s?</string>
+<string name="update_location_city">تحديث نظام تحديد موقع المدينة ل  %1s?</string>
+<string name="city_not_found">لا يمكن العثور على المدينة .</string>
+<string name="weather_not_found">لا يمكن تحديد حالة الطقس .</string>
+<string name="city_max_toast">أقصى%1s مدن.</string>
+<string name="progress_refresh">جار التحديث&#8230;</string>
+<string name="toast_query_city_fail">فشل الاستعلام عن المدينة.</string>
+<string name="refresh_time">وقت التحديث:%1s</string>
+<string name="toast_wifi_only_mode">وضع Wifi فقط.</string>
+<string name="toast_net_inavailable">الشبكة غير متاحة</string>
+<string name="menu_wifi_only">WIFI فقط</string>
+<string name="menu_temperature_type">وحدة الحرارة</string>
+<string name="weather_breezy">منسم</string>
+<string name="weather_snow_showers">زخات الثلوج</string>
+<string name="weather_rain_and_snow">مطر و ثلج</string>
+<string name="header_reset">اسحب للأسفل للتحديث</string>
+<string name="header_pull">اسحب للأسفل للتحديث</string>
+<string name="header_pull_over">حرر لإعادة التحديث فورآ</string>
+<string name="header_completed">تمت إعادة التحديث بنجاح</string>
+<string name="header_fail">فشلت إعادة التحديث</string>
+
+    <string name="settings">"الإعدادات"</string>
+    <string name="menu_notification">"إشعار"</string>
+</resources>

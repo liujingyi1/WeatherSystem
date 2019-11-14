@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">የአየር ሁኔታ</string>
+<string name="delete">ሰርዝ</string>
+<string name="weather_data_default">ያልታወቀ</string>
+<string name="menu_auto_refresh_24h">በየቀኑ</string>
+<string name="menu_temperature_c">ሴልሲየስ</string>
+<string name="menu_temperature_f">ፋራናይት</string>
+<string name="weather_cloudy">ደመናማ</string>
+<string name="weather_windy">ንፋሳማ</string>
+<string name="weather_sunny">ፀሀያማ</string>
+<string name="weather_clear">አጽዳ</string>
+<string name="weather_thunderstorms">ነጎድጓዶች</string>
+<string name="weather_rain">ዝናብ</string>
+<string name="city_manager">ከተማ አስተዳዳሪ</string>
+<string name="delete_city">%1s ይጥፋ?</string>
+<string name="add_city">%1s ይጨመር?</string>
+<string name="update_location_city">የ GPS ከተማ ወደ %1s ይዝመን?</string>
+<string name="add_city_title">ከተማ ጨምር</string>
+<string name="city_name_hint">የከተማ ስም</string>
+<string name="city_not_found">ከተማ ማግኘት አልተቻለም</string>
+<string name="weather_not_found">የአየር ሁኔታ ማግኘት አልተቻለም</string>
+<string name="city_max_toast">ከፍተኛ %1s ከተሞች</string>
+<string name="progress_refresh">በማዝመን ላይ&#8230;</string>
+<string name="toast_query_city_fail">ከተማ መጠየቅ አልተሳካም</string>
+<string name="refresh_time">ማደሻ ጊዜ: %1s</string>
+<string name="toast_wifi_only_mode">ዋይፋይ ብቻ ሁነታ</string>
+<string name="toast_net_inavailable">አውታር መረብ አይገኝም</string>
+<string name="menu_auto_refresh">የራስሰር ዝማኔዎች</string>
+<string name="menu_auto_refresh_6h">በየ 6 ሰዓታት</string>
+<string name="menu_auto_refresh_12h">በየ 12 ሰዓታት</string>
+<string name="menu_wifi_only">ዋይፋይ ብቻ</string>
+<string name="menu_temperature_type">የሙቀት መለኪያ</string>
+<string name="weather_breezy">ንፋስ</string>
+<string name="weather_showers">የበረዶ ዝናብ</string>
+<string name="weather_snow_showers">የበረዶ ዝናብ</string>
+<string name="weather_rain_and_snow">ዝናብ እና በረዶ</string>
+<string name="header_reset">ለማደስ ወደ ታች ይጎትቱ</string>
+<string name="header_pull">ለማደስ ወደ ታች ይጎትቱ</string>
+<string name="header_pull_over">መልቀቁ በፍጥነት ይሆናል</string>
+<string name="header_refreshing">በማደስ ላይ ...</string>
+<string name="header_completed">ማደስ ተሳክቷል</string>
+<string name="header_fail">ማደስ አልተሳካም</string>
+
+    <string name="settings">"ቅንብሮች"</string>
+    <string name="menu_notification">ማሳወቂያ</string>
+	
+</resources>

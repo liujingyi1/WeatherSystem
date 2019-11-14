@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">موسم</string>
+<string name="delete">حذف کریں</string>
+<string name="weather_data_default">نامعلوم</string>
+<string name="menu_auto_refresh_24h">روزانہ</string>
+<string name="menu_temperature_c">سیلسیس</string>
+<string name="menu_temperature_f">فارن ہائیٹ</string>
+<string name="weather_cloudy">ابر آلود</string>
+<string name="weather_sunny">دھوپ</string>
+<string name="weather_clear">صاف کریں</string>
+<string name="city_manager">سٹی مینجر</string>
+<string name="delete_city">حذف کریں %1s؟</string>
+<string name="add_city">اضافہ کریں %1s؟</string>
+<string name="update_location_city">جی پی ایس سٹی کو اپ ڈیٹ کریں حذف کریں %1sپر</string>
+<string name="add_city_title">شہر کا اضافہ کریں</string>
+<string name="city_name_hint">شہر کا نام</string>
+<string name="city_not_found">شہر موجود نہیں ہے</string>
+<string name="weather_not_found">موسم موجود نہیں ہے</string>
+<string name="city_max_toast">زیادہ سے زیادہ %1sشہر</string>
+<string name="progress_refresh">اپ ڈیٹنگ شہر</string>
+<string name="toast_query_city_fail">سٹی کیوری ناکام</string>
+<string name="refresh_time">ریفریش ٹائم: %1s</string>
+<string name="toast_wifi_only_mode">وائی فائی صرف موڈ</string>
+<string name="toast_net_inavailable">نیٹ دستیاب نہ ہے</string>
+<string name="menu_auto_refresh">ازخود اپ ڈیٹس</string>
+<string name="menu_auto_refresh_6h">ہر 6 گھنٹے</string>
+<string name="menu_auto_refresh_12h">ہر12 گھنٹے</string>
+<string name="menu_wifi_only">وائی فائی صرف</string>
+<string name="menu_temperature_type">ٹمپریچر یونٹ</string>
+<string name="weather_breezy">ہوادار</string>
+<string name="weather_windy">ہوادار</string>
+<string name="weather_showers">موسلادھار بارش</string>
+<string name="weather_snow_showers">سنوشاورز</string>
+<string name="weather_thunderstorms">گرجتا طوفان</string>
+<string name="weather_rain">بارش</string>
+<string name="weather_rain_and_snow">بارش اور برف</string>
+<string name="header_reset">ری فریش کرنے کے لیے نیچے کی جانب کھینچیں</string>
+<string name="header_pull">ری فریش کرنے کے لیے نیچے کی جانب کھینچیں</string>
+<string name="header_pull_over">ریلیز فوراً فلش ہوجاتی ہے</string>
+<string name="header_refreshing">ری فریش کر رہا ہے۔۔۔</string>
+<string name="header_completed">ریفریش کامیاب ہوگیا</string>
+<string name="header_fail">ریفریش ناکام ہوگیا</string>
+
+    <string name="settings">ترتیبات</string>
+    <string name="menu_notification">اطلاع</string>
+</resources>

@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300px"
+    android:orientation="horizontal" >
+    
+    <LinearLayout
+        android:layout_width="match_parent" 
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_marginLeft="5px"
+        >
+        <TextView 
+             android:id="@+id/notification_city"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textStyle="bold"
+             android:textColor="@color/dark" 
+            />
+         <TextView 
+             android:id="@+id/notification_weather"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="@color/dark"  
+            />
+    </LinearLayout>
+    
+	<LinearLayout
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        >
+        <ImageView 
+             android:id="@+id/notification_weather_image"
+             android:layout_width="wrap_content" 
+       		 android:layout_height="wrap_content"
+       		 android:visibility="visible"
+       		 android:src="@drawable/notification_unknown"
+            />
+    </LinearLayout>
+    
+	<LinearLayout
+        android:layout_width="match_parent" 
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_marginRight="5px"
+        > 
+        
+       <!-- <Button
+            android:id="@+id/close_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cloth_notification"
+             android:layout_weight="1"
+            
+            />
+          android:background="@drawable/" -->
+        <TextView 
+             android:id="@+id/notification_temperature"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textStyle="bold"
+             android:textColor="@color/dark"
+             android:layout_gravity="right"
+            />
+         <TextView 
+             android:id="@+id/notification_minmax_temperature"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="@color/dark"
+             android:layout_gravity="right"
+            />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="test">160px</dimen>
+    
+    <!-- ActionBar height -->
+    <dimen name="actionbar_size">56dip</dimen>
+    <dimen name="actionbar_contentInsetStart">16dp</dimen>
+    
+    <dimen name="main_ampm_font_size">18dp</dimen>
+    <dimen name="widget_big_font_size">45dp</dimen>
+    
+    <dimen name="title_height">48dp</dimen>
+    <dimen name="title_paddingTop">7dp</dimen>
+    <dimen name="title_textSize">29sp</dimen>
+    
+    <dimen name="date_city_text_size">17sp</dimen>
+    <dimen name="weather_text_size">35sp</dimen>
+    <dimen name="temp_text_size">20sp</dimen>
+    
+    <dimen name="main_container_height">470dp</dimen>
+    
+    <dimen name="forecast_item_width">78dp</dimen>
+    <dimen name="forecast_item_height">50dp</dimen>
+    <dimen name="forecast_item_marginTop">5dp</dimen>
+    <dimen name="forecast_item_marginBottom">5dp</dimen>
+    <dimen name="forecast_image_size">40dp</dimen>
+    <dimen name="forecast_item_text_size">12sp</dimen>
+    <dimen name="forecast_item_internal_marginBottom">1dp</dimen>
+    <dimen name="forecast_item_line_marginTop">15dp</dimen>
+    <dimen name="forecast_item_line_marginBottom">50dp</dimen>
+    
+    <dimen name="temp_text_marginBottom">3dp</dimen>
+    <dimen name="weather_text_marginTop">-20dp</dimen>
+    
+    <dimen name="bottom_bar_marginTop">3dp</dimen>
+
+    <dimen name="search_text_height">54px</dimen>
+    
+    <dimen name="widget_img_marginLeft">5.0dip</dimen>
+    <dimen name="widget_img_marginTop">20.0dip</dimen>
+    <dimen name="widget_weatherdata_marginTop">25.0dip</dimen>
+    <dimen name="widget_time_marginBottom">8.0dip</dimen>
+    <dimen name="widget_date_marginBottom">13.0dip</dimen>
+    
+    <dimen name="add_city_width">54px</dimen>
+    
+    <dimen name="gps_view_icon_marginTop">24dp</dimen>
+
+    <dimen name="menu_width">230dp</dimen>
+    <dimen name="menu_item_height">45dp</dimen>
+    <dimen name="sub_menu_marginStart">42dp</dimen>
+    <dimen name="menu_item_marginEnd">7dp</dimen>
+    <dimen name="sub_menu_item_marginEnd">30dp</dimen>
+
+    <dimen name="citymanager_bottom_height">48dp</dimen>
+    <dimen name="citymanager_list_item_minHeight">52dp</dimen>
+    
+    <dimen name="pinterest_item_space">10dp</dimen>
+    <dimen name="pinterest_item_padding">16dp</dimen>
+    <dimen name="pinterest_item_height">20dp</dimen>
+    <dimen name="edittext_drawable_padding">8dp</dimen>
+    
+	<dimen name="main_topbar_padding">5dp</dimen>
+	<dimen name="main_topbar_height">48dp</dimen>
+    <dimen name="main_city_text_size">22sp</dimen>
+    <dimen name="main_date_weather_text_size">15sp</dimen>
+    <dimen name="main_cur_temp_text_size">42sp</dimen>
+    <dimen name="main_temp_text_size">13sp</dimen>
+    <dimen name="main_temp_margin_top">24dp</dimen>
+    <dimen name="main_image_margin">4dp</dimen>
+    <dimen name="main_image_height">128dp</dimen>
+    
+    <dimen name="chart_item_width">60dp</dimen>
+    <dimen name="chart_item_text_size">12sp</dimen>
+    <dimen name="chart_item_drawable_padding">2dp</dimen>
+    <dimen name="chart_item_drawable_size">33dp</dimen>
+    <dimen name="line_chart_height">130dp</dimen>
+    <dimen name="line_chart_vertical_padding">@dimen/main_temp_text_size</dimen>
+    <dimen name="line_chart_text_size">11sp</dimen>
+    
+    <dimen name="swipe_button_width">120dp</dimen>
+    <dimen name="swipe_button_height">18dp</dimen>
+</resources>

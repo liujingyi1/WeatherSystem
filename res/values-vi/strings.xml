@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Thời tiết</string>
+<string name="delete">Xóa</string>
+<string name="weather_data_default">Không xác định</string>
+<string name="menu_auto_refresh_24h">Hàng ngày</string>
+<string name="menu_temperature_c">Độ C</string>
+<string name="menu_temperature_f">Độ F</string>
+<string name="weather_cloudy">Nhiều mây</string>
+<string name="weather_windy">Lộng gió</string>
+<string name="weather_sunny">Có nắng</string>
+<string name="weather_clear">Xóa</string>
+<string name="weather_thunderstorms">Dông bão</string>
+<string name="weather_rain">Mưa</string>
+<string name="header_fail">Làm mới không thành công</string>
+</resources>

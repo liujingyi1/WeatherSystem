@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">El tiempo</string>
+<string name="delete">Eliminar</string>
+<string name="weather_data_default">Desconocido</string>
+<string name="menu_auto_refresh_24h">Todos los días</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Nublado</string>
+<string name="weather_windy">Ventoso</string>
+<string name="weather_sunny">Soleado</string>
+<string name="weather_clear">Borrar</string>
+<string name="weather_thunderstorms">Tormentas eléctricas</string>
+<string name="weather_rain">Lluvia</string>
+<string name="city_manager">Gestor municipal</string>
+<string name="delete_city">¿Desea eliminar %1s?</string>
+<string name="add_city">¿Desea añadir %1s?</string>
+<string name="update_location_city">¿Desea actualizar la ciudad del GPS a %1s?</string>
+<string name="add_city_title">Añadir ciudad</string>
+<string name="city_name_hint">Nombre de la ciudad</string>
+<string name="city_not_found">Imposible encontrar la ciudad.</string>
+<string name="weather_not_found">Imposible encontrar el tiempo.</string>
+<string name="city_max_toast">%1s ciudades como máximo.</string>
+<string name="progress_refresh">Actualizando...</string>
+<string name="toast_query_city_fail">Error de consulta de ciudad.</string>
+<string name="refresh_time">Tiempo de actualización: %1s</string>
+<string name="toast_wifi_only_mode">Modo de solo WLAN</string>
+<string name="toast_net_inavailable">La red no está disponible.</string>
+<string name="menu_auto_refresh">Actualizaciones automáticas</string>
+<string name="menu_auto_refresh_6h">Cada 6 horas</string>
+<string name="menu_auto_refresh_12h">Cada 12 horas</string>
+<string name="menu_wifi_only">Solo WLAN</string>
+<string name="menu_temperature_type">Unidad de temperatura</string>
+<string name="weather_breezy">Ventoso</string>
+<string name="weather_showers">Chubascos</string>
+<string name="weather_snow_showers">Precipitaciones en forma de nieve</string>
+<string name="weather_rain_and_snow">Lluvia y nieve</string>
+<string name="header_reset">Deslizar hacia abajo para actualizar</string>
+<string name="header_pull">Deslizar hacia abajo para actualizar</string>
+<string name="header_pull_over">La versión se vacía de inmediato</string>
+<string name="header_refreshing">Actualizando...</string>
+<string name="header_completed">Actualización correcta</string>
+<string name="header_fail">Error de actualización</string>
+</resources>

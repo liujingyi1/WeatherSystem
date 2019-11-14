@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="test">213px</dimen>
+    <dimen name="main_ampm_font_size">18dp</dimen>
+    <dimen name="widget_big_font_size">36dp</dimen>
+    
+    <dimen name="title_height">46dp</dimen>
+    <dimen name="title_paddingTop">4dp</dimen>
+    <dimen name="title_textSize">24dp</dimen>
+    
+    <dimen name="date_city_text_size">17dp</dimen>
+    <dimen name="weather_text_size">38dp</dimen>
+    <dimen name="temp_text_size">23dp</dimen>
+    
+    <dimen name="main_container_height">412dp</dimen>
+    <dimen name="weather_text_marginTop">-7dp</dimen>
+    <dimen name="weather_date_marginBottom">2dp</dimen>
+    <dimen name="temp_text_marginBottom">8dp</dimen>
+    
+    <dimen name="forecast_item_width">88dp</dimen>
+    <dimen name="forecast_item_height">180dp</dimen>
+    <dimen name="forecast_item_marginTop">15dp</dimen>
+    <dimen name="forecast_item_marginBottom">5dp</dimen>
+    <dimen name="forecast_image_size">88dp</dimen>
+    <dimen name="forecast_item_text_size">15dp</dimen>
+    <dimen name="forecast_item_internal_marginBottom">3dp</dimen>
+    <dimen name="forecast_item_line_marginTop">15dp</dimen>
+    <dimen name="forecast_item_line_marginBottom">50dp</dimen>
+    
+    <dimen name="bottom_bar_marginTop">3dp</dimen>
+
+    <dimen name="search_text_height">54px</dimen>
+    <dimen name="widget_time_marginBottom">18.0dip</dimen>
+    <dimen name="widget_date_marginBottom">28.0dip</dimen>
+    
+    <dimen name="add_city_width">54px</dimen>
+    
+    <dimen name="gps_view_icon_marginTop">24dp</dimen>
+
+</resources>

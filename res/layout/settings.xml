@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/settings_auto_update" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_auto_refresh" />
+
+                <Switch
+                    android:id="@+id/settings_auto_refresh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/settings_auto_6h"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/menu_item_height"
+                android:paddingEnd="@dimen/sub_menu_item_marginEnd"
+                android:paddingStart="@dimen/sub_menu_marginStart"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_auto_refresh_6h"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/settings_radio_auto_6h"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio_btn_off" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/settings_auto_12h"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/menu_item_height"
+                android:paddingEnd="@dimen/sub_menu_item_marginEnd"
+                android:paddingStart="@dimen/sub_menu_marginStart"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_auto_refresh_12h"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/settings_radio_auto_12h"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio_btn_off" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/settings_auto_24h"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/menu_item_height"
+                android:paddingEnd="@dimen/sub_menu_item_marginEnd"
+                android:paddingStart="@dimen/sub_menu_marginStart"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_auto_refresh_24h"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/settings_radio_auto_24h"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio_btn_off" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+           android:layout_width="match_parent"
+           android:layout_height="1px"
+           android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+           android:background="@color/line_half_translate" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp" 
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/settings_temperature_type" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/menu_temperature_type" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/settings_temperature_c"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/menu_item_height"
+                android:paddingEnd="@dimen/sub_menu_item_marginEnd"
+                android:paddingStart="@dimen/sub_menu_marginStart"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_temperature_c"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/settings_radio_temperature_c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio_btn_off" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/settings_temperature_f"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/menu_item_height"
+                android:paddingEnd="@dimen/sub_menu_item_marginEnd"
+                android:paddingStart="@dimen/sub_menu_marginStart"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/menu_temperature_f"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/settings_radio_temperature_f"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/radio_btn_off" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+	       android:layout_width="match_parent"
+	       android:layout_height="1px"
+	       android:layout_marginLeft="15dp"
+           android:layout_marginRight="15dp"
+	       android:background="@color/line_half_translate" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/settings_notification" />
+
+                <TextView
+                    android:layout_width="0dp"
+		            android:layout_weight="1"
+		            android:layout_height="wrap_content"
+                    android:text="@string/menu_notification" />
+                <Switch 
+                    android:id="@+id/settings_notification"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/line_half_translate" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/settings_wifionly" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/menu_wifi_only" />
+                <Switch 
+                    android:id="@+id/settings_wifionly"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/line_half_translate" />
+            <LinearLayout
+                android:id="@+id/settings_citymanager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                android:background="@drawable/list_item_bg_dark"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/settings_citymanager" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:text="@string/city_manager" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

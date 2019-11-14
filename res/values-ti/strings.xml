@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="delete">ኣጥፍእ</string>
+<string name="weather_data_default">ዘይተፈለጠ</string>
+<string name="menu_auto_refresh_24h">ኹሉ ጊዜ</string>
+<string name="weather_cloudy">ደመናማ</string>
+<string name="weather_clear">የጥፍኡ</string>
+<string name="app_name">ኹነታት ኣየር</string>
+<string name="city_manager">ከተማ ኣመሓዳሪ</string>
+<string name="delete_city">ኣጥፍእ %1s?</string>
+<string name="add_city">%1s ወስኽ ?</string>
+<string name="update_location_city">ጂፒኤስ ከተማ ናብ %1s ኣሓድስ?</string>
+<string name="add_city_title">ከተማ ወስኽ</string>
+<string name="city_name_hint">ናይ ከተማ ሽም</string>
+<string name="city_not_found">ከተማ ምርካብ ኣይከኣለን</string>
+<string name="weather_not_found">ኹነታት ኣየር ምርካብ ኣይኸኣለን</string>
+<string name="city_max_toast">ዝለዓለ %1s ኸተማታት</string>
+<string name="progress_refresh">ኣብ ምሕዳስ&#8230;</string>
+<string name="toast_query_city_fail">ናይ ኸተማ ሕቶ ኣይተሳኸዐን</string>
+<string name="refresh_time">ናይ ምሕዳስ ግዜ: %1s</string>
+<string name="toast_wifi_only_mode">ዋይፋይ ጥራሕ ሞድ</string>
+<string name="toast_net_inavailable">መርበብ  የለን</string>
+<string name="menu_auto_refresh">ህፁፅ ምሕዳሳት</string>
+<string name="menu_auto_refresh_6h">ሕድሕድ 6 ሰዓታት</string>
+<string name="menu_auto_refresh_12h">ሕድሕድ 12 ሰዓታት</string>
+<string name="menu_wifi_only">ዋይፋይ ጥራሕ</string>
+<string name="menu_temperature_type">ናይ ሙቐት ኣሃድ</string>
+<string name="menu_temperature_c">ሴልሽዩስ</string>
+<string name="menu_temperature_f">ፋራናይት</string>
+<string name="weather_breezy">ንፍሳማ</string>
+<string name="weather_windy">ነፋሻ</string>
+<string name="weather_sunny">ፀሓይ ብርሃን ዝዓረፎ</string>
+<string name="weather_showers">በረድ</string>
+<string name="weather_snow_showers">ኸቢድ በረድ</string>
+<string name="weather_thunderstorms">ነጎድጓድ</string>
+<string name="weather_rain">ዝናብ</string>
+<string name="weather_rain_and_snow">ዝናብን በረድን</string>
+<string name="header_reset">ንምሕዳስ ንታሕቲ ጉተት</string>
+<string name="header_pull">ንምሕዳስ ንታሕቲ ጉተት</string>
+<string name="header_pull_over">እቲ ልቕላቓት ብፍጥነት ልቀቕ</string>
+<string name="header_refreshing">ኣብ ምሕዳስ...</string>
+<string name="header_completed">ምሕዳስ ተዓዊቱ</string>
+<string name="header_fail">ምሕዳስ ኣይተሳኸዐን</string>
+
+    <string name="settings">ስንድኦታት</string>
+    <string name="menu_notification">ምልክታ</string>
+</resources>

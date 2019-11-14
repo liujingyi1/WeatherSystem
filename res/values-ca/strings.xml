@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">El temps</string>
+<string name="delete">Suprimeix</string>
+<string name="weather_data_default">Desconegut</string>
+<string name="menu_auto_refresh_24h">Cada dia</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Ennuvolat</string>
+<string name="weather_windy">Ventós</string>
+<string name="weather_sunny">Assolellat</string>
+<string name="weather_clear">Esborra</string>
+<string name="weather_thunderstorms">Tempestes elèctriques</string>
+<string name="weather_rain">Pluja</string>
+</resources>

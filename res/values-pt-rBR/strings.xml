@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Previsão do tempo</string>
+<string name="delete">Excluir</string>
+<string name="weather_data_default">Desconhecido</string>
+<string name="menu_auto_refresh_24h">Todos os dias</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_sunny">Ensolarado</string>
+<string name="weather_clear">Limpar</string>
+<string name="header_fail">Falha ao atualizar</string>
+<string name="city_manager">Gerenciador de cidade</string>
+<string name="delete_city">Exluir %1s?</string>
+<string name="add_city">Adicionar %1s?</string>
+<string name="update_location_city">Atualizar a cidade GPS para %1s?</string>
+<string name="add_city_title">Adicionar cidade</string>
+<string name="city_name_hint">Nome da cidade</string>
+<string name="city_not_found">Não é possível localizar a cidade.</string>
+<string name="weather_not_found">Não é possível localizar a previsão do tempo.</string>
+<string name="city_max_toast">Maxímo de %1s cidades.</string>
+<string name="progress_refresh">Atualizando...</string>
+<string name="toast_query_city_fail">Falhar ao encontrar a cidade.</string>
+<string name="refresh_time">Tempo de atualização: %1s</string>
+<string name="toast_wifi_only_mode">Modo apenas WLAN.</string>
+<string name="toast_net_inavailable">Net não está disponível.</string>
+<string name="menu_auto_refresh">Atualizações automáticas</string>
+<string name="menu_auto_refresh_6h">A cada 6 horas</string>
+<string name="menu_auto_refresh_12h">A cada 12 horas</string>
+<string name="menu_wifi_only">Apenas WLAN</string>
+<string name="menu_temperature_type">Unidade de temperatura</string>
+<string name="weather_cloudy">Nublado</string>
+<string name="weather_breezy">Ventoso</string>
+<string name="weather_windy">Vento</string>
+<string name="weather_showers">Chuva</string>
+<string name="weather_snow_showers">Neve</string>
+<string name="weather_thunderstorms">Trovoadas</string>
+<string name="weather_rain">Chuva</string>
+<string name="weather_rain_and_snow">Chuva e neve</string>
+<string name="header_reset">Puxe para baixo para atualizar</string>
+<string name="header_pull">Puxe para baixo para atualizar</string>
+<string name="header_pull_over">A liberação atualiza imediatamente</string>
+<string name="header_refreshing">Atualizando...</string>
+<string name="header_completed">Atualização bem sucedida</string>
+</resources>

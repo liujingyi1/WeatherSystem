@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/actionbar_bg"
+    android:gravity="center_vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+	    <ImageView 
+	        android:id="@+id/img_back"
+	        android:layout_width="@dimen/actionbar_size"
+	        android:layout_height="@dimen/actionbar_size"
+	        android:src="@drawable/actionbar_back"
+	        android:scaleType="center"
+	        android:background="@drawable/img_bg_dark"
+	        />
+	    <TextView 
+	        android:id="@+id/tv_title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="17sp"
+	        android:textColor="@color/actionbar_text_color"
+	        />
+	  
+</LinearLayout>

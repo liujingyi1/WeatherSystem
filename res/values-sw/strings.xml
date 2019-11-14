@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Hali ya hewa</string>
+<string name="delete">Futa</string>
+<string name="weather_data_default">Haijulikani</string>
+<string name="menu_auto_refresh_24h">Kila siku</string>
+<string name="menu_temperature_c">Selisiasi</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Mawingu</string>
+<string name="weather_windy">Upepo</string>
+<string name="weather_sunny">Hali ya jua</string>
+<string name="weather_clear">Futa</string>
+<string name="weather_thunderstorms">Ngurumo za radi</string>
+<string name="weather_rain">Mvua</string>
+<string name="city_manager">Msimamizi wa Mji</string>
+<string name="delete_city">Je, utafuta %1s?</string>
+<string name="add_city">Je, utaongeza %1s?</string>
+<string name="update_location_city">Je, utasasisha mji wa GPS kwa %1s?</string>
+<string name="add_city_title">Ongeza eneo</string>
+<string name="city_name_hint">Jina la Mji</string>
+<string name="city_not_found">Haiwezi kupata mji.</string>
+<string name="weather_not_found">Haiwezi pata  hali ya hewa.</string>
+<string name="city_max_toast">Upeo wa miji %1s.</string>
+<string name="progress_refresh">Inasasisha &#8230;</string>
+<string name="toast_query_city_fail">Kutafuta mji hakujafaulu.</string>
+<string name="refresh_time">Onesha muda upya:%1s</string>
+<string name="toast_wifi_only_mode">Hali ya wifi pekee.</string>
+<string name="toast_net_inavailable">Mtandao haupatikani.</string>
+<string name="menu_auto_refresh">Visasisho vya kiotomatiki</string>
+<string name="menu_auto_refresh_6h">Kwa kila masaa 6</string>
+<string name="menu_auto_refresh_12h">Kwa kila masaa 12</string>
+<string name="menu_wifi_only">WIFI pekee</string>
+<string name="menu_temperature_type">Kipimo cha hali joto</string>
+<string name="weather_breezy">Upepo</string>
+<string name="weather_showers">Manyunyu</string>
+<string name="weather_snow_showers">Mvua ya theluji</string>
+<string name="weather_rain_and_snow">Mvua na theluji</string>
+<string name="header_reset">Vuta chini kuonyesha upya</string>
+<string name="header_pull">Vuta chini kuonyesha upya</string>
+<string name="header_pull_over">Toleo huachiliwa mara moja</string>
+<string name="header_refreshing">Inaweka upya...</string>
+<string name="header_completed">Uoneshaji upya umefaulu</string>
+<string name="header_fail">Uoneshaji upya haujafaulu</string>
+
+    <string name="settings">Mipangilio</string>
+    <string name="menu_notification">Arifa</string>
+
+</resources>

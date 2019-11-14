@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Pogoda</string>
+<string name="delete">Usuń</string>
+<string name="weather_data_default">Nieznany</string>
+<string name="menu_auto_refresh_24h">Codziennie</string>
+<string name="menu_temperature_c">Skala Celsjusza</string>
+<string name="menu_temperature_f">Skala Fahrenheita</string>
+<string name="weather_cloudy">Zachmurzenie</string>
+<string name="weather_windy">Wietrznie</string>
+<string name="weather_sunny">Słonecznie</string>
+<string name="weather_clear">Wyczyść</string>
+<string name="weather_thunderstorms">Burze z piorunami</string>
+<string name="weather_rain">Deszcz</string>
+</resources>

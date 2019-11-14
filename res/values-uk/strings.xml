@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Погода</string>
+<string name="delete">Видалити</string>
+<string name="weather_data_default">Невідомо</string>
+<string name="menu_auto_refresh_24h">Щодня</string>
+<string name="menu_temperature_c">Шкала Цельсія</string>
+<string name="menu_temperature_f">Шкала Фаренгейта</string>
+<string name="weather_cloudy">Хмарно</string>
+<string name="weather_windy">Вітряно</string>
+<string name="weather_sunny">Сонячно</string>
+<string name="weather_clear">Очистити</string>
+<string name="weather_thunderstorms">Гроза</string>
+<string name="weather_rain">Дощ</string>
+</resources>

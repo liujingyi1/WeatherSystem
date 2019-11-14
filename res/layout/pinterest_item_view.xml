@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.gweather.view.PinterestItemView"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal|center_vertical"
+    android:background="@drawable/preset_city_head_item_bg">
+    <!-- android:minHeight="@dimen/pinterest_item_height" -->
+        <TextView
+            android:id="@+id/pinterest_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:paddingLeft="@dimen/pinterest_item_padding"
+            android:paddingRight="@dimen/pinterest_item_padding"
+	        android:textColor="@drawable/preset_city_text_color"
+	        android:duplicateParentState="true"
+            />
+</view>

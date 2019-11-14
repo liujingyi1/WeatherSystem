@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Météo</string>
+<string name="delete">Supprimer</string>
+<string name="add_city_title">Ajouter une ville</string>
+<string name="city_name_hint">Nom de la ville</string>
+<string name="weather_data_default">Inconnu</string>
+<string name="menu_auto_refresh">Mises à jour automatiques</string>
+<string name="menu_auto_refresh_6h">Toutes les 6 heures</string>
+<string name="menu_auto_refresh_12h">Toutes les 12 h</string>
+<string name="menu_auto_refresh_24h">Tous les jours</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Nuageux</string>
+<string name="weather_windy">Vent</string>
+<string name="weather_sunny">Ensoleillé</string>
+<string name="weather_clear">Effacer</string>
+<string name="weather_showers">Averses</string>
+<string name="weather_thunderstorms">Orages</string>
+<string name="weather_rain">Pluie</string>
+<string name="header_refreshing">Actualisation…</string>
+<string name="city_manager">Manager de la ville</string>
+<string name="delete_city">Supprimer %1s?</string>
+<string name="add_city">Ajouter %1s?</string>
+<string name="update_location_city">Mettre à jour le GPS de la ville à %1s?</string>
+<string name="city_not_found">Impossible de trouver la ville</string>
+<string name="weather_not_found">Impossible de trouver le temps</string>
+<string name="city_max_toast">Maximum %1s villes</string>
+<string name="progress_refresh">Actualisation&#8230;</string>
+<string name="toast_query_city_fail">Echec de la recherche sur la ville</string>
+<string name="refresh_time">Durée de l\'actualisation: %1s</string>
+<string name="toast_wifi_only_mode">Mode WiFi uniquement</string>
+<string name="toast_net_inavailable">L\'Internet n\'est pas disponible.</string>
+<string name="menu_wifi_only">WiFi uniquement</string>
+<string name="menu_temperature_type">Unité de température</string>
+<string name="weather_breezy">Jovial</string>
+<string name="weather_snow_showers">Averses de neige</string>
+<string name="weather_rain_and_snow">Pluie et Neige</string>
+<string name="header_reset">Chargement...</string>
+<string name="header_pull">Chargement...</string>
+<string name="header_pull_over">La libération se supprime immédiatement.</string>
+<string name="header_completed">Rafraîchissement réussi</string>
+<string name="header_fail">Echec du rafraîchissement</string>
+
+    <string name="settings">Paramètres</string>
+</resources>

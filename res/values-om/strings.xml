@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="delete">Ballesi</string>
+<string name="weather_data_default">Hin bekkamu</string>
+<string name="menu_auto_refresh_24h">Guyyaa hundaa</string>
+<string name="weather_cloudy">Dumessa</string>
+<string name="weather_clear">Qullessi</string>
+<string name="app_name">Haala Qilensaa</string>
+<string name="city_manager">Bulchaa magalaa</string>
+<string name="delete_city">%1s ballessu?</string>
+<string name="add_city">%1s ida\'uu?</string>
+<string name="update_location_city">Garaa %1s ttii magalaa GPS haromsuu?</string>
+<string name="add_city_title">Magaalaa ida\'i</string>
+<string name="city_name_hint">Maqaa magalaa</string>
+<string name="city_not_found">Magaalaa barbaduu hin dandessu.</string>
+<string name="weather_not_found">Haalaa qillensaa barbaduu hin dandessu.</string>
+<string name="city_max_toast">Yoo guddatee magalaa %1s.</string>
+<string name="progress_refresh">Haromsaa jiraa &#8230;</string>
+<string name="toast_query_city_fail">Magalaa gafachuun hin milkofnee.</string>
+<string name="refresh_time">Yeroo haromsaa:%1s</string>
+<string name="toast_wifi_only_mode">Toftaa Wifi qofa.</string>
+<string name="toast_net_inavailable">Cimdaan hin argamuu.</string>
+<string name="menu_auto_refresh">Ofnaan haromsii</string>
+<string name="menu_auto_refresh_6h">Sa\'atiwwaan 6  jahattii</string>
+<string name="menu_auto_refresh_12h">Sa\'atiwwaan 12  kudhalamaattii</string>
+<string name="menu_wifi_only">WIFI qofaa</string>
+<string name="menu_temperature_type">Unitii tempirecharaa</string>
+<string name="menu_temperature_c">Selshiyesii</string>
+<string name="menu_temperature_f">Faranahitii</string>
+<string name="weather_breezy">Qillensa\'aa</string>
+<string name="weather_windy">Oboboletii</string>
+<string name="weather_sunny">Kan aduu</string>
+<string name="weather_showers">Tifuu</string>
+<string name="weather_snow_showers">Bokkaa cabbii walinii</string>
+<string name="weather_thunderstorms">Balqessa\'a</string>
+<string name="weather_rain">Rooba</string>
+<string name="weather_rain_and_snow">Bokkaa fi cabbii</string>
+<string name="header_reset">Haromsuuf gadii harkisii</string>
+<string name="header_pull">Haromsuuf gadii harkisii</string>
+<string name="header_pull_over">Gadi dhisuun ofnaan wal qixxateraa</string>
+<string name="header_refreshing">Haromsaa jiraa…</string>
+<string name="header_completed">Haromsuun milka\'eera</string>
+<string name="header_fail">Haromsuun hin milkofnee</string>
+    <string name="settings">Hojimaatawan</string>
+    <string name="menu_notification">Yadachiftuu</string>
+</resources>

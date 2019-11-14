@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Καιρός</string>
+<string name="delete">Διαγραφή</string>
+<string name="weather_data_default">Άγνωστο</string>
+<string name="menu_auto_refresh_24h">Κάθε ημέρα</string>
+<string name="menu_temperature_c">Κελσίου</string>
+<string name="menu_temperature_f">Φαρενάιτ</string>
+<string name="weather_cloudy">Συννεφιά</string>
+<string name="weather_windy">Με ανέμους</string>
+<string name="weather_sunny">Ηλιοφάνεια</string>
+<string name="weather_clear">Διαγραφή</string>
+<string name="weather_thunderstorms">Σφοδρές καταιγίδες</string>
+<string name="weather_rain">Βροχή</string>
+</resources>

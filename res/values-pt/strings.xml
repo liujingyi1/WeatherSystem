@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Meteorologia</string>
+<string name="delete">Excluir</string>
+<string name="add_city_title">Adicionar cidade</string>
+<string name="city_name_hint">Nome da cidade</string>
+<string name="weather_data_default">Desconhecido</string>
+<string name="menu_auto_refresh_6h">Cada 6 horas</string>
+<string name="menu_auto_refresh_12h">Cada 12 horas</string>
+<string name="menu_auto_refresh_24h">Todos os dias</string>
+<string name="menu_temperature_c">Celsius</string>
+<string name="menu_temperature_f">Fahrenheit</string>
+<string name="weather_cloudy">Enublado</string>
+<string name="weather_windy">Ventoso</string>
+<string name="weather_sunny">Soalheiro</string>
+<string name="weather_clear">Limpar</string>
+<string name="weather_showers">Aguaceiros</string>
+<string name="weather_thunderstorms">Trovoadas</string>
+<string name="weather_rain">Chuva</string>
+<string name="header_refreshing">A actualizar...</string>
+<string name="city_manager">Gerente da cidade</string>
+<string name="delete_city">Excluir%1s?</string>
+<string name="add_city">Adicionar%1s?</string>
+<string name="update_location_city">Atualizar cidade GPS para%1s?</string>
+<string name="city_not_found">Não é possível localizar cidade.</string>
+<string name="weather_not_found">Não consegue encontrar tempo.</string>
+<string name="city_max_toast">Máximo%1s cidades.</string>
+<string name="progress_refresh">Atualizando ...</string>
+<string name="toast_query_city_fail">Falha na cidade de consulta.</string>
+<string name="refresh_time">Tempo de atualização:%1s</string>
+<string name="toast_wifi_only_mode">Somente modo Wifi.</string>
+<string name="toast_net_inavailable">A rede não está disponível.</string>
+<string name="menu_auto_refresh">Atualizações automáticas</string>
+<string name="menu_wifi_only">Somente Wi-Fi</string>
+<string name="menu_temperature_type">Unidade de temperatura</string>
+<string name="weather_breezy">Ventoso</string>
+<string name="weather_snow_showers">Chuva de Neve</string>
+<string name="weather_rain_and_snow">Chuva e neve</string>
+<string name="header_reset">[Chato]</string>
+<string name="header_pull">[Chato]</string>
+<string name="header_pull_over">O lançamento é liberado imediatamente</string>
+<string name="header_completed">Atualizar com êxito</string>
+<string name="header_fail">Falha ao atualizar</string>
+
+    <string name="settings">Configurações</string>
+    <string name="menu_notification">Notificação</string>
+</resources>

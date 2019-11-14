@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">هوا</string>
+<string name="delete">حذف</string>
+<string name="add_city_title">افزودن شهر</string>
+<string name="city_name_hint">نام شهر</string>
+<string name="weather_data_default">ناشناس</string>
+<string name="menu_auto_refresh">به روزرسانی های خودکار</string>
+<string name="menu_auto_refresh_6h">هر ۶ ساعت</string>
+<string name="menu_auto_refresh_12h">هر ۱۲ ساعت</string>
+<string name="menu_auto_refresh_24h">هر روز</string>
+<string name="menu_temperature_c">سلسیوس</string>
+<string name="menu_temperature_f">فارنهایت</string>
+<string name="weather_cloudy">روشن</string>
+<string name="weather_windy">بادخیز</string>
+<string name="weather_sunny">آفتابی</string>
+<string name="weather_clear">پاک کردن</string>
+<string name="weather_showers">رگبار</string>
+<string name="weather_thunderstorms">طوفان</string>
+<string name="weather_rain">باران</string>
+<string name="header_refreshing">در حال نوسازی…</string>
+<string name="city_manager">مدیر شهر</string>
+<string name="delete_city">آیا می‌خواهید %1s را حذف کنید؟</string>
+<string name="add_city">آیا می‌خواهید %1s را اضافه کنید؟</string>
+<string name="update_location_city">آیا می‌خواهید شهر GPS را به %1s به‌روزرسانی کنید؟</string>
+<string name="city_not_found">امکان یافتن شهر وجود ندارد.</string>
+<string name="weather_not_found">امکان یافت آب و هوا وجود ندارد</string>
+<string name="city_max_toast">حداکثر%1s شهر.</string>
+<string name="progress_refresh">به‌روزرسانی &#8230;</string>
+<string name="toast_query_city_fail">جستجوی شهر ناموفق بود.</string>
+<string name="refresh_time">زمان تازه‌سازی: %1s</string>
+<string name="toast_wifi_only_mode">تنها حالت وای فای</string>
+<string name="toast_net_inavailable">اینترنت موجود نیست</string>
+<string name="menu_wifi_only">تنها وای فای</string>
+<string name="menu_temperature_type">واحد درجه حرارت</string>
+<string name="weather_breezy">نسیم</string>
+<string name="weather_snow_showers">بارش برف</string>
+<string name="weather_rain_and_snow">برف و باران</string>
+<string name="header_reset">برای بهتر شدن پایین بکشید</string>
+<string name="header_pull">برای بهتر شدن پایین بکشید</string>
+<string name="header_pull_over">انتشار، بلافاصله بیرون می آید</string>
+<string name="header_completed">تازه‌سازی موفقیت‌آمیز بود</string>
+<string name="header_fail">تازه‌سازی ناموفق بود</string>
+
+
+    <string name="settings">تنظیمات</string>
+    <string name="menu_notification">اعلان</string>
+
+</resources>
